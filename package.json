@@ -1,0 +1,23 @@
+{
+  "name": "baidu-sdk",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Lsong",
+    "email": "song940@gmail.com",
+    "url": "http://lsong.org"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/baidu-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/baidu-sdk/issues"
+  },
+  "homepage": "https://github.com/song940/baidu-sdk#readme",
+  "description": "Baidu SDK in Node.js"
+}
